@@ -128,6 +128,8 @@ def csv_to_html(csv_filename, output_folder):
 
 
                      </footer>
+                     <script src="../js/imagePlaceholder.js"></script>
+
         </body>
 </html>
 """
